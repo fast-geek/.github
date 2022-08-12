@@ -1,1 +1,1 @@
-# I renamed my account: https://github.com/rodion-gudz
+# I renamed my GitHub account: https://github.com/rodion-gudz
